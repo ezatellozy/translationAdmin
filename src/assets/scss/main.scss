@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@500;600&display=swap');
+
+html {
+	overflow-y: auto !important;
+}
+
+body {
+	*, span.title.title {
+		font-family: 'Cairo', sans-serif !important;
+	}
+}
+
+.v-btn {
+	letter-spacing: normal !important;
+}

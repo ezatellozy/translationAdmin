@@ -1,0 +1,105 @@
+{
+	"locales": {
+		"en": "English",
+		"ar": "العربية"
+	},
+
+	"headings": {
+		"signin": "تسجيل الدخول",
+		"updateFeature": "Update Feature",
+		"updateGlance": "Update Glance",
+		"updateMember": "Update Member",
+		"updateWork": "Update Work",
+		"action": "Action",
+		"year": "Year"
+	},
+
+	"navs": {
+		"jobs": "الوظائف",
+		"memories": "الذكريات",
+		"stages": "مراحل التصنيع",
+		"abstracts": "نبذة عن المصنع",
+		"glances": "اللمحات",
+		"statistics": "اﻹحصائيات",
+		"products": "المنتجات المستوردة",
+		"services": "الخدمات",
+		"achievements": "الإنجازات",
+		"clients": "العملاء",
+		"features": "المميزات",
+		"work": "أعمالنا",
+		"about": "من نحن",
+		"settings": "اﻹعدادات",
+		"contactUs": "التواصل",
+		"contact": "بيانات التواصل",
+		"boardMembers": "فريق العمل",
+		"abstract": "Abstract",
+		"ContactUs": "Contact Us",
+						"banner": "Banners"
+
+	},
+
+	"fields": {
+		"name": "اﻹسم",
+		"email": "البريد اﻹلكتروني",
+		"password": "كلمة المرور",
+		"jobName": "Job Name",
+		"requirements": "Requirements",
+		"order": "Order",
+		"title": "Title",
+		"description": "Description",
+		"jobTitle": "Job Title",
+		"videoLink": "Video Link",
+		"chooseLang": "Choose Lang",
+		"contactEmail": "Contact Email",
+		"contactPhone": "Contact Phone",
+		"contactFacebook": "Contact Facebook",
+		"contactTwitter": "Contact Twitter",
+		"contactWhatsapp": "Contact Whatsapp",
+		"statisticsProjects": "Statistics Projects",
+		"statisticsProvince": "Statistics Province",
+		"statisticsBranches": "Statistics Branches",
+		"statisticsEmployees": "Statistics Employees",
+		"statisticsClients": "Statistics Clients",
+		"benefits": "Benefits",
+		"SelectYear": "Select year",
+		"VideoURL": "Video URL",
+		"phone": "Phone",
+		"message": "Message",
+		"CareerId": "Career Id",
+		"ServiceId": "Service Id",
+		"icon": "icon"
+	},
+
+	"buttons": {
+		"create": "إضافة",
+		"update": "تحديث",
+		"delete": "حذف",
+		"cancel": "إلغاء",
+		"signIn": "تسجيل الدخول",
+		"signOut": "تسجيل الخروج",
+		"removeVideo": "Remove Video",
+		"removeImage": "Remove Image",
+		"createProduct": "إضافة منتج جديد",
+		"createStage": "إضافة مرحلة جديدة",
+		"createTeam": "إضافة فريق جديد",
+		"createMember": "إضافة عضو",
+		"createService": "إضافة خدمة جديدة",
+		"createJob": "Create New Job",
+		"createMemory": "Create New Memory",
+		"createFeature": "Create New Feature",
+		"createGlance": "Create New Glance",
+		"createWork": "Create New Work",
+		"CreateMemory": "Create New Memory",
+		"CreateClient": "Create New Client",
+		"CreateService": "Create New Service",
+		"CreateProduct": "Create New Product",
+				"Createbanners":"Create New Banners"
+
+	},
+
+	"messages": {
+		"min4Validation": "على اﻷقل 4 حروف"
+	},
+
+	"misc": {}
+}

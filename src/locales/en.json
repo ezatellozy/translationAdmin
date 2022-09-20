@@ -1,0 +1,104 @@
+{
+	"locales": {
+		"en": "English",
+		"ar": "العربية"
+	},
+
+	"headings": {
+		"signin": "Sign in",
+		"updateFeature": "Update Feature",
+		"updateGlance": "Update Glance",
+		"updateMember": "Update Member",
+		"updateWork": "Update Work",
+		"action": "Action",
+		"year": "Year"
+	},
+
+	"navs": {
+		"jobs": "Jobs",
+		"memories": "Memories",
+		"stages": "Stages",
+		"abstracts": "Abstracts",
+		"glances": "Glances",
+		"statistics": "Statistics",
+		"products": "Products",
+		"services": "Services",
+		"achievements": "Achievements",
+		"clients": "Clients",
+		"features": "Features",
+		"work": "Work",
+		"about": "About Us",
+		"settings": "Settings",
+		"contactUs": "Contact Us",
+		"contact": "Contact",
+		"boardMembers": "Board Members",
+		"abstract": "Abstract",
+		"ContactUs": "Contact Us",
+				"banner": "Banners"
+
+	},
+
+	"fields": {
+		"name": "Name",
+		"email": "Email",
+		"Password": "password",
+		"jobName": "Job Name",
+		"requirements": "Requirements",
+		"order": "Order",
+		"title": "Title",
+		"description": "Description",
+		"jobTitle": "Job Title",
+		"videoLink": "Video Link",
+		"chooseLang": "Choose Lang",
+		"contactEmail": "Contact Email",
+		"contactPhone": "Contact Phone",
+		"contactFacebook": "Contact Facebook",
+		"contactTwitter": "Contact Twitter",
+		"contactWhatsapp": "Contact Whatsapp",
+		"statisticsProjects": "Statistics Projects",
+		"statisticsProvince": "Statistics Province",
+		"statisticsBranches": "Statistics Branches",
+		"statisticsEmployees": "Statistics Employees",
+		"statisticsClients": "Statistics Clients",
+		"benefits": "Benefits",
+		"SelectYear": "Select year",
+		"VideoURL": "Video URL",
+		"phone": "Phone",
+		"message": "Message",
+		"CareerId": "Career Id",
+		"ServiceId": "Service Id",
+		"icon": "icon"
+	},
+
+	"buttons": {
+		"create": "Create",
+		"update": "Update",
+		"delete": "Delete",
+		"cancel": "Cancel",
+		"signIn": "Sign In",
+		"signOut": "Sign Out",
+		"removeVideo": "Remove Video",
+		"removeImage": "Remove Image",
+		"createProduct": "Create New Product",
+		"createStage": "Create New Stage",
+		"createTeam": "Create New Team",
+		"createMember": "Add Member",
+		"createService": "Create New Service",
+		"createJob": "Create New Job",
+		"createMemory": "Create New Memory",
+		"createFeature": "Create New Feature",
+		"createGlance": "Create New Glance",
+		"createWork": "Create New Work",
+		"CreateMemory": "Create New Memory",
+		"CreateClient": "Create New Client",
+		"CreateService": "Create New Service",
+		"CreateProduct": "Create New Product",
+		"Createbanners":"Create New Banners"
+	},
+
+	"messages": {
+		"min_4_validation": "At least 4 characters"
+	},
+
+	"misc": {}
+}
